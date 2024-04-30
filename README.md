@@ -1,5 +1,4 @@
 WinWiper - Mini
-
 This is WinWiper, but without the additional things, this batch just do a cleanup :/
 
 Please run it as Admin, or else it will close automatically
