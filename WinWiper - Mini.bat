@@ -66,3 +66,8 @@ md %WinDir%\Prefetch
 md %Temp%
 md %AppData%\Temp
 md %HomePath%\AppData\LocalLow\Temp
+
+cls
+color f
+bye bye.
+timeout /t 2 /NOBREAK >nul
