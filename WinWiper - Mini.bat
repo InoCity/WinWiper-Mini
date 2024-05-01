@@ -71,3 +71,4 @@ cls
 color f
 bye bye.
 timeout /t 2 /NOBREAK >nul
+exit
