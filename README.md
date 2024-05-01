@@ -1,4 +1,5 @@
-WinWiper - Mini, the normal WinWiper, but with no features.
+# WinWiper - Mini
+the normal WinWiper, but with no features.
 
 Please run it as Admin, or else it will close automatically.
 
