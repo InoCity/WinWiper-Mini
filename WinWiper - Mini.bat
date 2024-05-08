@@ -50,14 +50,6 @@ del /s /f /q %WinDir%\Prefetch\*.*
 del /s /f /q %Temp%\*.*
 del /s /f /q %AppData%\Temp\*.*
 del /s /f /q %HomePath%\AppData\LocalLow\Temp\*.*
-rd /s /q %WinDir%\Temp
-rd /s /q %WinDir%\Prefetch
-rd /s /q %Temp%
-rd /s /q %AppData%\Temp
-rd /s /q %HomePath%\AppData\LocalLow\Temp
-rd /s /q %SYSTEMDRIVE%\AMD
-rd /s /q %SYSTEMDRIVE%\NVIDIA
-rd /s /q %SYSTEMDRIVE%\INTEL
 
 cls
 color 9
