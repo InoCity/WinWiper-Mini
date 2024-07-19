@@ -61,6 +61,6 @@ md %HomePath%\AppData\LocalLow\Temp
 
 cls
 color f
-bye bye.
+echo Cleanup finished. Bye bye.
 timeout /t 2 /NOBREAK >nul
 exit
